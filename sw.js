@@ -1,6 +1,6 @@
 /* Mi Finca: guarda la app en el celular para que abra sin internet.
    Los datos (ganado, leche, fotos…) los guarda Firebase en el celular y los sube solos cuando hay señal. */
-const V = 'mifinca-884f4cc7';
+const V = 'mifinca-209ce0b4';
 const SDK = ['app', 'auth', 'firestore'].map(n => 'https://www.gstatic.com/firebasejs/10.14.1/firebase-' + n + '-compat.js');
 const CORE = ['./', 'index.html', 'manifest.webmanifest', 'firebase-config.js', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png'];
 
